@@ -1,0 +1,7 @@
+
+*.class
+*.css
+.idea/*
+project/*
+target/*
+*.xml
